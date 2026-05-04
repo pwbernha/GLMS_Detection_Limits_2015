@@ -1,3 +1,1 @@
-# PRACTICE README
-
-This is an example of a README created when practicing how to use Github. I am trying to update it.
+This code is associated with the Bernhardt, Wang, and Zhang 2015 paper "Statistical methods for generalized linear models with covariates subject to detection limits" appearing in Statistics for Biosciences.
