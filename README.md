@@ -1,1 +1,1 @@
-This code is associated with the Bernhardt, Wang, and Zhang 2015 paper "Statistical methods for generalized linear models with covariates subject to detection limits" appearing in Statistics for Biosciences.
+These materials are associated with the Bernhardt, Wang, and Zhang 2015 paper "Statistical methods for generalized linear models with covariates subject to detection limits" appearing in Statistics for Biosciences.
