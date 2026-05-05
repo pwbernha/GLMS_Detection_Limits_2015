@@ -12,7 +12,7 @@ set.seed(8089205)
 #Reading in  GenIMS longitudinal data from laptop
 GenIMS <- read.csv("C://Users/Paul/Documents/Data.csv")
 
-#Reading in GenIMS single time indepdent data from laptop
+#Reading in GenIMS single time independent data from laptop
 GenIMSInd <- read.csv("C://Users/Paul/Documents/Data2.csv")
 
 #Attaching sex,race and age covariates from time independent data and restricting to first day measurements
